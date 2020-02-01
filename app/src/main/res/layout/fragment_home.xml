@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="@dimen/margin">
+
+    <TextView
+        android:text="KỲ THI KẾT THÚC HỌC PHẦN"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_marginBottom="@dimen/margin_medium"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <cn.iwgang.countdownview.CountdownView
+        android:id="@+id/countdownView"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/margin"
+        app:isHideTimeBackground="false"
+        app:timeBgRadius="6dp"
+        app:timeBgColor="@color/green"
+        app:isShowDay="true"
+        app:isShowHour="true"
+        app:isShowMinute="true"
+        app:isShowSecond="false"
+        app:timeTextColor="@color/white"
+        app:timeTextSize="18sp"
+        app:suffixGravity="center"
+        app:suffixLRMargin="@dimen/margin_medium"
+        app:suffixTextColor="@color/white"
+        app:suffixTextSize="@dimen/text_size_data"
+        app:suffixDay="Ngày"
+        app:suffixHour="Giờ"
+        app:suffixMinute="Phút"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <GridView
+        android:id="@+id/gridSubject"
+        android:numColumns="3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

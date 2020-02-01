@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Trắc nghiệm UNETI</string>
+    <string name="close">Đóng</string>
+    <string name="open">Mở</string>
+    <string name="notification">Thông báo</string>
+    <string name="end_quiz">Kết thúc</string>
+    <string name="btn_return">Trở về</string>
+    <string name="warning_title">Cảnh báo thoát</string>
+    <string name="warning_message">Nếu bạn bấm ĐỒNG Ý,\nBạn sẽ được chuyển đến màn hình kết quả và không thể trả lời tiếp</string>
+    <string name="message_confirm">Bạn có thực sự muốn kết thúc bài thi?</string>
+    <string name="ok">Đồng ý</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="corect">Đúng</string>
+    <string name="incorect">Sai</string>
+    <string name="un_choice">Chưa trả lời</string>
+    <string name="title_quiz_ques">Phiếu trả lời trắc nghiệm</string>
+    <string name="title_quiz_result">Phiếu kết quả</string>
+    <string name="warning_time_up">Hết thời gian!</string>
+    <string name="time_up_message">Đã hết thời gian làm bài.\nBấm ĐỒNG Ý\nđể chuyển đến màn hình xem kết quả</string>
+    <string name="subject">Môn học</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

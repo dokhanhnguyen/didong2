@@ -1,0 +1,50 @@
+[
+  {
+    "name":"Logic Học",
+    "icon":"ic_logic_hoc",
+    "src_exam":"ex_math",
+    "info": "60 câu, 60 phút"
+  },
+  {
+    "name":"Vật Lý",
+    "icon":"ic_physical",
+    "src_exam":"ex_physical",
+    "info": "60 câu, 60 phút"
+  },
+  {
+    "name":"Hóa Học",
+    "icon":"ic_chemical",
+    "src_exam":"ex_chemical",
+    "info": "60 câu, 60 phút"
+  },
+  {
+    "name":"Pháp Luật Đại Cương",
+    "icon":"ic_phap_luat_dc",
+    "src_exam":"ex_biological",
+    "info": "60 câu, 60 phút"
+  },
+  {
+    "name":"TT Đa Phương Tiện",
+    "icon":"ic_media",
+    "src_exam":"ex_historical",
+    "info": "60 câu, 60 phút"
+  },
+  {
+    "name":"Quản Trị Học",
+    "icon":"ic_quan_tri_hoc",
+    "src_exam":"ex_geography",
+    "info": "60 câu, 60 phút"
+  },
+  {
+    "name":"Hệ Điều Hành",
+    "icon":"ic_he_dieu_hanh",
+    "src_exam":"ex_law",
+    "info": "60 câu, 60 phút"
+  },
+  {
+  "name":"TEST",
+  "icon":"ic_he_dieu_hanh",
+  "src_exam":"ex_test",
+  "info": "60 câu, 60 phút"
+}
+]

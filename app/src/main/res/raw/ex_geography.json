@@ -1,0 +1,388 @@
+[
+  {
+    "subject": "Địa lý",
+    "exam_num": 1,
+    "time": 50,
+    "questions": [
+      {
+        "ques": "Bộ phận nào sau đây của vùng biển nước ta ở phía trong đường cơ sở?",
+        "ans_a": "A. Lãnh hải.",
+        "ans_b": "B. Nội thủy.",
+        "ans_c": "C. Vùng đặc quyền về kinh tế.",
+        "ans_d": "D. Vùng tiếp giáp lãnh hải.",
+        "ans_true": 2
+      },
+      {
+        "ques": "Người lao động nước ta có nhiều kinh nghiệm sản xuất nhất trong lĩnh vực",
+        "ans_a": "A. công nghiệp.",
+        "ans_b": "B. thương mại.",
+        "ans_c": "C. du lịch.",
+        "ans_d": "D. nông nghiệp.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 4 - 5, cho biết tỉnh nào sau đây không giáp Lào?",
+        "ans_a": "A. Đắk Lắk.",
+        "ans_b": "B. Điện Biên.",
+        "ans_c": "C. Nghệ An.",
+        "ans_d": "D. Thanh Hóa.",
+        "ans_true": 1
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 10, cho biết sông nào sau đây không thuộc hệ thống sông Hồng?",
+        "ans_a": "A. Sông Gâm.",
+        "ans_b": "B. Sông Chảy.",
+        "ans_c": "C. Sông Mã.",
+        "ans_d": "D. Sông Lô.",
+        "ans_true": 3
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 13, cho biết dãy núi nào sau đây có hướng vòng cung?",
+        "ans_a": "A. Ngân Sơn.",
+        "ans_b": "B. Hoàng Liên Sơn.",
+        "ans_c": "C. Pu Đen Đinh.",
+        "ans_d": "D. Trường Sơn Bắc.",
+        "ans_true": 1
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 17, cho biết Khu kinh tế cửa khẩu Lao Bảo thuộc tỉnh nào sau đây?",
+        "ans_a": "A. Nghệ An.",
+        "ans_b": "B. Hà Tĩnh.",
+        "ans_c": "C. Quảng Bình.",
+        "ans_d": "D. Quảng Trị.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 25, cho biết vườn quốc gia nào sau đây nằm trên đảo?",
+        "ans_a": "A. Bái Tử Long.",
+        "ans_b": "B. Bến En.",
+        "ans_c": "C. Tràm Chim.",
+        "ans_d": "D. Kon Ka Kinh.",
+        "ans_true": 1
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 26, cho biết trung tâm công nghiệp nào sau đây có giá trị sản xuất công nghiệp lớn nhất ở Đồng bằng sông Hồng?",
+        "ans_a": "A. Phúc Yên.",
+        "ans_b": "B. Bắc Ninh.",
+        "ans_c": "C. Hải Phòng.",
+        "ans_d": "D. Hà Nội.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 28, cho biết chè được trồng nhiều ở các tỉnh nào sau đây?",
+        "ans_a": "A. Kon Tum, Gia Lai.",
+        "ans_b": "B. Lâm Đồng, Đắk Lắk.",
+        "ans_c": "C. Gia Lai, Đắk Lắk.",
+        "ans_d": "D. Lâm Đồng, Gia Lai.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 30, cho biết trung tâm công nghiệp nào sau đây không thuộc Vùng kinh tế trọng điểm phía Nam?",
+        "ans_a": "A. Thủ Dầu Một.",
+        "ans_b": "B. Vũng Tàu.",
+        "ans_c": "C. Biên Hòa.",
+        "ans_d": "D. Quy Nhơn.",
+        "ans_true": 4
+      },
+      {
+        "ques": "So với nhóm nước phát triển, nhóm nước đang phát triển có dân số",
+        "ans_a": "A. Trẻ và đông hơn.",
+        "ans_b": "B. Trẻ và ít hơn.",
+        "ans_c": "C. Già và đông hơn.",
+        "ans_d": "D. Già và ít hơn.",
+        "ans_true": 1
+      },
+      {
+        "ques": "Phát biểu nào sau đây không đúng với đặc điểm tự nhiên của Đông Nam Á?",
+        "ans_a": "A. Khí hậu nóng ẩm.",
+        "ans_b": "B. Khoáng sản nhiều loại.",
+        "ans_c": "C. Đất trồng đa dạng.",
+        "ans_d": "D. Rừng ôn đới phổ biến.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Loại gió nào sau đây là nguyên nhân chính tạo nên mùa khô ở Nam Bộ nước ta?",
+        "ans_a": "A. Gió mùa Đông Bắc.",
+        "ans_b": "B. Tín phong bán cầu Bắc.",
+        "ans_c": "C. Gió phơn Tây Nam.",
+        "ans_d": "D. Gió mùa Tây Nam.",
+        "ans_true": 2
+      },
+      {
+        "ques": "Phát biểu nào sau đây không đúng với cơ cấu kinh tế nước ta?",
+        "ans_a": "A. Chuyển dịch theo hướng công nghiệp hóa, hiện đại hóa.",
+        "ans_b": "B. Ngành nông nghiệp đang có tỉ trọng thấp nhất trong cơ cấu.",
+        "ans_c": "C. Kinh tế Nhà nước đóng vai trò thứ yếu trong nền kinh tế.",
+        "ans_d": "D. Kinh tế có vốn đầu tư nước ngoài chiếm tỉ trọng nhỏ nhất.",
+        "ans_true": 2
+      },
+      {
+        "ques": "Điều kiện thuận lợi nổi bật để xây dựng các cảng biển nước sâu ở nước ta là",
+        "ans_a": "A. Vùng biển rộng.",
+        "ans_b": "B. Thềm lục địa rộng.",
+        "ans_c": "C. Bờ biển kéo dài.",
+        "ans_d": "D. Vùng biển có nhiều.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Căn cứ vào bảng số liệu (ảnh), cho biết nhận xét nào đúng về giá trị xuất, nhập khẩu  của nước ta giai đoạn 2010 – 2015?",
+        "img": "image/img_geography_1_16.jpg",
+        "ans_a": "A. Xuất khẩu tăng, nhập khẩu giảm",
+        "ans_b": "B. Xuất khẩu tăng, nhập khẩu tăng",
+        "ans_c": "C. Xuất khẩu giảm, nhập khẩu tăng",
+        "ans_d": "D. Xuất khẩu giảm, nhập khẩu giảm",
+        "ans_true": 2
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 18, cho biết nhận xét nào sau đây không đúng với nông nghiệp nước ta?",
+        "ans_a": "A. Chè được trồng nhiều ở Trung du và miền núi Bắc Bộ, Tây Nguyên.",
+        "ans_b": "B. Cà phê được trồng nhiều ở các tỉnh Tây Nguyên và Đông Nam Bộ.",
+        "ans_c": "C. Trâu được nuôi nhiều ở Trung du và miền núi Bắc Bộ, Bắc Trung Bộ.",
+        "ans_d": "D. Dừa được trồng nhiều ở Đồng bằng sông Cửu Long và Tây Nguyên.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Căn cứ vào biểu đồ, cho biết nhận xét nào sau đây không đúng về sự thay đổi tỉ trọng trong cơ cấu lao động từ 15 tuổi trở lên phân theo nhóm tuổi ở nước ta, giai đoạn 2005 - 2015?",
+        "img": "image/img_geography_1_18.jpg",
+        "ans_a": "A. Từ 15 - 24 tuổi giảm, từ 50 tuổi trở lên tăng.",
+        "ans_b": "B. Từ 25 - 49 tuổi giảm, từ 15 - 24 tuổi giảm.",
+        "ans_c": "C. Từ 25 - 49 tuổi tăng, từ 50 tuổi trở lên giảm.",
+        "ans_d": "D. Từ 50 tuổi trở lên tăng, từ 25 - 49 tuổi giảm.",
+        "ans_true": 3
+      },
+      {
+        "ques": "Phát biểu nào sau đây không đúng về ASEAN sau hơn 50 năm phát triển?",
+        "ans_a": "A. Đời sống của nhân dân được cải thiện.",
+        "ans_b": "C. Bộ mặt nhiều quốc gia thay đổi nhanh.",
+        "ans_c": "B. Phát triển ở các nước còn chênh lệch.",
+        "ans_d": "D. Kinh tế các nước tăng trưởng còn thấp.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Căn cứ vào bảng số liệu, cho biết nhận xét nào sau đây đúng về tổng sản phẩm trong nước của một số quốc gia, năm 2015 so với 2010?",
+        "img": "image/img_geography_1_20.jpg",
+        "ans_a": "A. Phi-lip-pin tăng chậm nhất.",
+        "ans_b": "B. Xin-ga-po tăng ít nhất.",
+        "ans_c": "C. Thái Lan tăng nhiều nhất.",
+        "ans_d": "D. Việt Nam tăng nhanh nhất.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Phát biểu nào sau đây không đúng với Đồng bằng sông Hồng?",
+        "ans_a": "A. Có nhiều thiên tai như bão, lũ lụt, hạn hán.",
+        "ans_b": "B. Số dân đông, mật độ cao nhất cả nước.",
+        "ans_c": "C. Tài nguyên đất, nước trên mặt xuống cấp.",
+        "ans_d": "D. Có đầy đủ khoáng sản cho công nghiệp.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Lợi ích chủ yếu của việc khai thác tổng hợp tài nguyên biển đảo ở nước ta là",
+        "ans_a": "A. Tăng cường giao lưu kinh tế giữa các huyện đảo.",
+        "ans_b": "B. Giải quyết nhiều việc làm cho người lao động.",
+        "ans_c": "C. Hạn chế các thiên tai phát sinh trên vùng biển.",
+        "ans_d": "D. Tạo hiệu quả kinh tế cao và bảo vệ môi trường.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Phát biểu nào sau đây đúng với vùng kinh tế trọng điểm ở nước ta?",
+        "ans_a": "A. Ranh giới cố định theo thời gian.",
+        "ans_b": "B. Đã được hình thành từ rất lâu đời.",
+        "ans_c": "C. Có cơ cấu kinh tế không thay đổi.",
+        "ans_d": "D. Hội tụ được đầy đủ các thế mạnh.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Căn cứ vào Atlat Địa lí Việt Nam trang 22, cho biết phát biểu nào sau đây đúng về công nghiệp chế biến lương thực, thực phẩm?",
+        "ans_a": "A. Tỉ trọng rất nhỏ trong toàn ngành công nghiệp.",
+        "ans_b": "B. Quy mô giá trị sản xuất các trung tâm đều lớn.",
+        "ans_c": "C. Các ngành chế biến chính tương đối đa dạng.",
+        "ans_d": "D. Tập trung dày đặc nhất ở ven biển miền Trung.",
+        "ans_true": 3
+      },
+      {
+        "ques": "Phát biểu nào sau đây không đúng với nông nghiệp Nhật Bản?",
+        "ans_a": "A. Có vai trò thứ yếu trong kinh tế.",
+        "ans_b": "B. Diện tích đất nông nghiệp ít.",
+        "ans_c": "C. Ứng dụng nhiều công nghệ hiện đại.",
+        "ans_d": "D. Chăn nuôi còn kém phát triển.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Trung Quốc không áp dụng biện pháp nào sau đây trong quá trình cải cách nông nghiệp?",
+        "ans_a": "A. Sử dụng các công nghệ sản xuất mới.",
+        "ans_b": "B. Giao quyền sử dụng đất cho nông dân.",
+        "ans_c": "C. Tập trung vào tăng thuế nông nghiệp.",
+        "ans_d": "D. Xây dựng các công trình thủy lợi lớn.",
+        "ans_true": 3
+      },
+      {
+        "ques": "Một số nước Đông Nam Á có tốc độ tăng trưởng công nghiệp nhanh trong những năm gần đây chủ yếu là do",
+        "ans_a": "A. Mở rộng thu hút đầu tư nước ngoài.",
+        "ans_b": "B. Phát triển mạnh các hàng xuất khẩu.",
+        "ans_c": "C. Tăng cường khai thác khoáng sản.",
+        "ans_d": "D. Nâng cao trình độ người lao động.",
+        "ans_true": 2
+      },
+      {
+        "ques": "Biểu đồ thể hiện nội dung nào sau đây?",
+        "img": "image/img_geography_1_28.jpg",
+        "ans_a": "A. Cơ cấu GDP/người của một số quốc gia qua các năm.",
+        "ans_b": "B. Quy mô GDP/người của một số quốc gia qua các năm.",
+        "ans_c": "C. Quy mô và cơ cấu GDP/người của một số quốc gia qua các năm.",
+        "ans_d": "D. Tốc độ tăng trưởng GDP/người của một số quốc gia qua các năm.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Xu hướng nổi bật nhất của ngành chăn nuôi nước ta hiện nay là",
+        "ans_a": "A. Ứng dụng tiến bộ khoa học và kĩ thuật.",
+        "ans_b": "B. Đang tiến mạnh lên sản xuất hàng hóa.",
+        "ans_c": "C. Tăng tỉ trọng sản phẩm không giết thịt.",
+        "ans_d": "D. Phát triển mạnh dịch vụ về giống, thú y.",
+        "ans_true": 2
+      },
+      {
+        "ques": "Điều kiện thuận lợi nhất cho nuôi trồng thủy sản nước ngọt ở nước ta là có",
+        "ans_a": "A. Diện tích mặt nước lớn ở các đồng ruộng.",
+        "ans_b": "B. Nhiều sông suối, kênh rạch, ao hồ.",
+        "ans_c": "C. Nhiều đầm phá và các cửa sông rộng lớn.",
+        "ans_d": "D. Nhiều bãi triều, ô trũng ngập nước.",
+        "ans_true": 2
+      },
+      {
+        "ques": "Vùng nông nghiệp Đồng bằng sông Hồng chuyên môn hóa sản xuất lúa chủ yếu do có",
+        "ans_a": "A. Đất phù sa màu mỡ, nhiệt ẩm dồi dào, nguồn nước phong phú.",
+        "ans_b": "B. Nguồn nước phong phú, nhiệt ẩm dồi dào, nhiều giống lúa tốt.",
+        "ans_c": "C. Nhiều giống lúa tốt, đất phù sa màu mỡ, có một mùa mưa lớn.",
+        "ans_d": "D. Nhiệt ẩm dồi dào, có nhiều giống lúa tốt, đất phù sa màu mỡ.",
+        "ans_true": 1
+      },
+      {
+        "ques": "Nhân tố nào sau đây là chủ yếu làm cho cơ cấu ngành của công nghiệp nước ta tương đối đa dạng?",
+        "ans_a": "A. Sự phân hóa lãnh thổ công nghiệp ngày càng sâu.",
+        "ans_b": "B. Trình độ người lao động ngày càng được nâng cao.",
+        "ans_c": "C. Nguồn nguyên, nhiên liệu nhiều loại và phong phú.",
+        "ans_d": "D. Nhiều thành phần kinh tế cùng tham gia sản xuất.",
+        "ans_true": 3
+      },
+      {
+        "ques": "Ý nghĩa lớn nhất của hoạt động xuất khẩu đối với phát triển kinh tế - xã hội nước ta là",
+        "ans_a": "A. Thúc đẩy sự phân công lao động theo lãnh thổ.",
+        "ans_b": "B. Nâng cao chất lượng cuộc sống của người dân.",
+        "ans_c": "C. Góp phần vào hoàn thiện cơ sở vật chất kĩ thuật.",
+        "ans_d": "D. Giảm chênh lệch phát triển nông thôn với đô thị.",
+        "ans_true": 1
+      },
+      {
+        "ques": "Phát biểu nào sau đây không đúng về ý nghĩa của việc phát triển thủy điện ở Trung du và miền núi Bắc Bộ?",
+        "ans_a": "A. Tạo động lực cho vùng phát triển công nghiệp khai thác.",
+        "ans_b": "B. Góp phần giảm thiểu lũ lụt cho đồng bằng sông Hồng.",
+        "ans_c": "C. Làm thay đổi đời sống của đồng bào dân tộc ít người.",
+        "ans_d": "D. Tạo việc làm tại chỗ cho người lao động ở địa phương.",
+        "ans_true": 2
+      },
+      {
+        "ques": "Vai trò quan trọng của rừng đặc dụng ở Bắc Trung Bộ là",
+        "ans_a": "A. Ngăn chặn nạn cát bay và cát chảy.",
+        "ans_b": "B. Cung cấp nhiều lâm sản có giá trị.",
+        "ans_c": "C. Hạn chế tác hại các cơn lũ đột ngột.",
+        "ans_d": "D. Bảo tồn các loài sinh vật quý hiếm.",
+        "ans_true": 4
+      },
+      {
+        "ques": "Vấn đề có ý nghĩa quan trọng nhất trong ngành thủy sản ở Duyên hải Nam Trung Bộ là",
+        "ans_a": "A. Đầu tư phương tiện và tập trung đánh bắt.",
+        "ans_b": "C. Khai thác hợp lí và bảo vệ các nguồn lợi.",
+        "ans_c": "B. Đào tạo lao động và đẩy mạnh xuất khẩu.",
+        "ans_d": "D. Phát triển nuôi trồng và đẩy mạnh chế biến.",
+        "ans_true": 3
+      },
+      {
+        "ques": "Việc phát triển các vùng chuyên canh cây công nghiệp lâu năm ở Tây nguyên có ý nghĩa chủ yếu nào sau đây?",
+        "ans_a": "A. Giải quyết việc làm cho nhiều người lao động.",
+        "ans_b": "B. Thúc đẩy hình thành nông trường quốc doanh.",
+        "ans_c": "C. Cung cấp sản phẩm cho nhu cầu ở trong nước.",
+        "ans_d": "D. Tạo ra khối lượng nông sản lớn cho xuất khẩu.",
+        "ans_true": 1
+      },
+      {
+        "ques": "Trong việc khai thác lãnh thổ theo chiều sâu ở Đông Nam Bộ cần phải quan tâm đến những vấn đề về môi trường, chủ yếu do",
+        "ans_a": "A. Tăng trưởng nhanh sản xuất công nghiệp.",
+        "ans_b": "C. Phân bố rộng của sản xuất nông nghiệp.",
+        "ans_c": "B. Tăng nhanh và đa dạng hoạt động dịch vụ.",
+        "ans_d": "D. Tập trung đông dân cư vào các thành phố.",
+        "ans_true": 1
+      },
+      {
+        "ques": "Nước ngọt là vấn đề quan trọng hàng đầu vào mùa khô ở Đồng bằng sông Cửu Long trong việc cải tạo tự nhiên, vì rất cần thiết cho",
+        "ans_a": "A. Thau chua và rửa mặn đất đai.",
+        "ans_b": "B. Ngăn chặn sự xâm nhập mặn.",
+        "ans_c": "C. Hạn chế nước ngầm hạ thấp.",
+        "ans_d": "D. Tăng cường phù sa cho đất.",
+        "ans_true": 1
+      },
+      {
+        "ques": "Để thể hiện sản lượng và giá trị xuất khẩu thủy sản của nước ta, giai đoạn 2010 - 2015 theo bảng số liệu, biểu đồ nào sau đây là thích hợp nhất?",
+        "img": "image/img_geography_1_40.jpg",
+        "ans_a": "A. Đường.",
+        "ans_b": "B. Miền.",
+        "ans_c": "C. Kết hợp.",
+        "ans_d": "D. Cột.",
+        "ans_true": 3
+      }
+    ]
+  },
+  {
+    "subject": "Địa lý",
+    "exam_num": 2,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": "Địa lý",
+    "exam_num": 3,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": "Địa lý",
+    "exam_num": 4,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": "Địa lý",
+    "exam_num": 5,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": "Địa lý",
+    "exam_num": 6,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": "Địa lý",
+    "exam_num": 7,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": "Địa lý",
+    "exam_num": 8,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": "Địa lý",
+    "exam_num": 9,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": "Địa lý",
+    "exam_num": 10,
+    "time": 50,
+    "questions": []
+  }
+]

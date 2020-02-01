@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Ôn Offline" />
+        <item
+            android:id="@+id/nav_scoreboard"
+            android:title="Bảng điểm"
+            android:icon="@drawable/ic_scoreboard"/>
+        <item
+            android:id="@+id/nav_test"
+            android:title="Thi Online"
+            android:icon="@drawable/ic_school"/>
+        <item
+            android:id="@+id/nav_exam"
+            android:title="Import đề thi"
+            android:icon="@drawable/ic_book"/>
+    </group>
+
+</menu>

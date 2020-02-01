@@ -1,0 +1,369 @@
+[
+  {
+    "subject": "Truyền thông đa phương tiện",
+    "exam_num": 1,
+    "time": 50,
+    "questions": [
+      {
+        "ques": "Ảnh “đen –trăng” là ảnh có",
+        "ans_a": "A. “Hai mức chói 0 và 1",
+        "ans_b": "B. “Nhiều mức xám nằm trong khoảng Lmin tới Lmax”",
+        "ans_c": "C. “Các điểm ảnh với mức xám khác 0”",
+        "ans_d": "D. “Độ bão hoà màu bằng 0 ”",
+        "ans_true": 4
+      },
+      {
+        "ques": " Theo phương pháp dịch chuyển điện tích, linh kiện ghép điện tích có thể được chia làm ________ loại:",
+        "ans_a": "A. Hai loại",
+        "ans_b": "B. Ba loại",
+        "ans_c": "C. Bốn loại",
+        "ans_d": "D. Năm loại",
+        "ans_true": 2
+      },
+      {
+        "ques": " Mắt người chỉ cảm nhận được những sóng điện từ có màu từ tia màu ____ đến tia màu:",
+        "ans_a": "A.Đỏ/Tím",
+        "ans_b": "B. Lục / Tím ",
+        "ans_c": "C. Tím / Vàng",
+        "ans_d": "D. Lục/Đỏ ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Quang thông và độ sáng là đại lượng trắc quang đặc trưng cho khả năng phát sáng của:",
+        "ans_a": "A. Nguồn sáng",
+        "ans_b": "B. Bề mặt được chiếu sáng",
+        "ans_c": "C. Bề mặt tự phát sáng ",
+        "ans_d": "D. Nguồn sáng theo hướng nhất định",
+        "ans_true": 1
+      },
+      {
+        "ques": " Đơn vị của độ chói L là:",
+        "ans_a": "A. Lumen",
+        "ans_b": "B. Candel/m2",
+        "ans_c": "C. Lít/m2",
+        "ans_d": "D. Lumen/m2",
+        "ans_true": 2
+      },
+      {
+        "ques": " Màu sắc của ảnh quang học được đánh giá một cách khách quan     qua các thông số sau:",
+        "ans_a": "A. Độ chói, Sắc màu, Độ bão hoà màu ",
+        "ans_b": "B. Độ chói, Bước sóng trội, Độ sạch màu ",
+        "ans_c": "C. Độ bão hoà màu, Độ sáng, Sắc màu ",
+        "ans_d": "D. Sắc màu, Bước sóng trội, Độ sạch màu ",
+        "ans_true": 2
+      },
+      {
+        "ques": " Khi trộn màu Đỏ với màu Lam, ta có màu ",
+        "ans_a": "A. Tím",
+        "ans_b": "B. Vàng",
+        "ans_c": "C. Lục",
+        "ans_d": "D. Chiến Lam",
+        "ans_true": 1
+      },
+      {
+        "ques": " Việc tái tạo hình ảnh màu trên màn hình vô tuyến thường được thực hiện bằng:",
+        "ans_a": "A. Phương pháp trộn màu quang học ",
+        "ans_b": "B. Phương pháp trộn màu không gian ",
+        "ans_c": "C. Phương pháp trừ ",
+        "ans_d": "D. Phương pháp lọc màu",
+        "ans_true": 1
+      },
+      {
+        "ques": " Ba màu cơ bản được dùng trong việc pha trộn để tạo ra màu mới, mỗi màu cơ bản có một màu bổ sung tương ứng. Hãy chọn cặp màu cơ bản và màu bổ sung với nó",
+        "ans_a": "A. Đỏ - Vàng ",
+        "ans_b": "B. Đỏ - Lục ",
+        "ans_c": "C. Đỏ - Lam ",
+        "ans_d": "D. A, B, C đều sai ",
+        "ans_true": 4
+      },
+      {
+        "ques": " Viễn thông không bao gồm các lĩnh vực:”",
+        "ans_a": "A. Điện thoại, fax ",
+        "ans_b": "B. Truyền thanh, truyền hình, vệ tinh ",
+        "ans_c": "C. Internet và mạng dữ liệu ",
+        "ans_d": "D. Sửa chữa thiết bị",
+        "ans_true": 4
+      },
+      {
+        "ques": " Dịch vụ giá trị gia tăng trong truyền thông là:",
+        "ans_a": "A. Dịch vụ thiết yếu nhất mà hạ tầng mạng cung cấp được ",
+        "ans_b": "B. Dịch vụ làm tăng giá trị thông tin do người sử dụng ",
+        "ans_c": "C. Dịch vụ chỉ liên quan đến truyền thoại",
+        "ans_d": " D.  Dịch vụ không cần tính cước ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Dịch vụ đa phương tiện là ",
+        "ans_a": "A. Dịch vụ chỉ truyền thoại ",
+        "ans_b": " B.  Dịch vụ chỉ truyền hình ảnh ",
+        "ans_c": "C. Dịch vụ chỉ truyền thoại và hình ảnh ",
+        "ans_d": "D. Dịch vụ truyền từ ít nhất hai loại hình thông tin trở lên",
+        "ans_true": 4
+      },
+      {
+        "ques": " QoS là viết tắt của cụm từ nào sau đây ",
+        "ans_a": "A. Quality of Service ",
+        "ans_b": "B. Queue of Service ",
+        "ans_c": "C. Quality of System ",
+        "ans_d": "D. Queue of System ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Dịch vụ thoại là?",
+        "ans_a": "A. Là dịch vụ cung cấp khả năng truyền đưa thông tin dưới dạng tiếng nói hoặc tiếng nói cùng hình ảnh từ một thuê bao tới một hoặc nhóm thuê bao.",
+        "ans_b": "B. Là dịch vụ cung cấp khả năng truyền thông tin dưới dạng tiếng nói",
+        "ans_c": "C. Là dịch vụ kết nối từ một thuê bao này tới một thuê bao khác ",
+        "ans_d": "D. Hợp Là dịch vụ kết nối từ một thuê bao này tới nhiều thuê bao khác ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Dịch vụ điện thoại cố định là? ",
+        "ans_a": "A. Dịch vụ thông tin vô tuyến được thiết lập nhằm đảm bảo liên lạc với các máy điện thoại đầu cuối di động ",
+        "ans_b": "B. Dịch vụ cung cấp đường truyền thoại cố định ",
+        "ans_c": "C. Dịch vụ cung cấp cho khách hàng khả năng kết nối tới tổng đài",
+        "ans_d": "D. Dịch vụ cho phép khách hàng thực hiện các cuộc đàm thoại ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Dịch vụ điện thoại di động là?",
+        "ans_a": "A. “Dịch vụ cấp cho khách hàng đường truyền tới tận nhà riêng, kết nối tới tổng đài điện thoại cố định”",
+        "ans_b": "B. “Dịch vụ cho phép khách hàng thực hiện các cuộc đàm thoại di động”",
+        "ans_c": "C. “Chất lượng về thiết bị của mạng lưới”",
+        "ans_d": "D. “Dịch vụ truyền tín hiệu thoại vô tuyến”",
+        "ans_true": 1
+      },
+      {
+        "ques": " Yếu tố không phải của chất lượng dịch vụ QoS ",
+        "ans_a": "A. Chất lượng về hỗ trợ dịch vụ",
+        "ans_b": "B. Chất lượng về khai thác dịch vụ",
+        "ans_c": "C. Chất lượng về thiết bị của mạng lưới ",
+        "ans_d": "D. Bãi Chất lượng về thực hiện dịch vụ thuê bao của mạng ",
+        "ans_true": 3
+      },
+      {
+        "ques": " Tham số nào sau đây không sử dụng để đánh giá hiệu năng mạng NP:",
+        "ans_a": "A. Độ trễ ",
+        "ans_b": "B. Độ khả dụng ",
+        "ans_c": "C. Độ suy hao	",
+        "ans_d": "D. Thông lượng ",
+        "ans_true": 4
+      },
+      {
+        "ques": " Dịch vụ Telex là dịch vụ cho phép các thuê bao trao đổi thông tin với nhau ",
+        "ans_a": "A. Dưới dạng chữ bằng cách gõ vào từ bàn phím.",
+        "ans_b": "B. Dưới dạng ảnh chụp văn bản ",
+        "ans_c": "C. Cách mạng Việt Nam trở thành một bộ phận khăng khít của cách mạng thế giới",
+        "ans_d": "D. Thông lượng",
+        "ans_true": 1
+      },
+      {
+        "ques": " Dịch vụ Telex cho phép nhận thông tin ",
+        "ans_a": "A. Dưới dạng nhận thư điện tử ",
+        "ans_b": "B. Trên màn hình hoặc in ra bằng giấy ",
+        "ans_c": "C. Dưới dạng nhận tin nhắn",
+        "ans_d": " D. Trên website cá nhân của người nhận",
+        "ans_true": 2
+      },
+      {
+        "ques": " Dịch vụ Fax?",
+        "ans_a": "A. Truyền nguyên bản các thông tin có sẵn trên giấy qua hệ thống viễn thông ",
+        "ans_b": "B. Nhập thông tin vào máy tính từ bàn phím rồi truyền đi qua mạng Internet ",
+        "ans_c": "C. Nhập thông tin vào máy tính từ bàn phím rồi truyền đi qua mạng cục bộ LAN ",
+        "ans_d": "D. Truyền nguyên bản các thông tin có sẵn trên giấy qua hệ thống bưu chính ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Dịch vụ Fax thuê bao cung cấp cho đối tượng?",
+        "ans_a": "A. Các cơ sở bưu điện ",
+        "ans_b": "B. Các tổ chức cá nhân hoặc nhà riêng ",
+        "ans_c": "C. Các đô thị mới ",
+        "ans_d": "D. Các cột điện thoại công cộng ",
+        "ans_true": 2
+      },
+      {
+        "ques": " Tốc độ kết nối mạng VPN?",
+        "ans_a": "A. 5 MB”",
+        "ans_b": "B. 8 MB”",
+        "ans_c": "C. 9 MB”",
+        "ans_d": "D. Tốc độ linh hoạt mềm dẻo tuỳ theo nhu cầu của khách hàng”",
+        "ans_true": 4
+      },
+      {
+        "ques": " Hành động nào không vi phạm quyền tác giả?",
+        "ans_a": "A. Trình diễn trước công chúng ",
+        "ans_b": "B. Trích dẫn ",
+        "ans_c": "C. Mua sản phẩm ",
+        "ans_d": "D. Sao chép",
+        "ans_true": 3
+      },
+      {
+        "ques": " Nhân tố nào không ảnh hưởng đến quá trình đồng bộ?",
+        "ans_a": "A. Lỗi đồng hồ ",
+        "ans_b": "B. Trễ truyền và trễ xử lý",
+        "ans_c": "C. Thời gian nhấn Play ",
+        "ans_d": "D. “Trễ đáp ứng ",
+        "ans_true": 4
+      },
+      {
+        "ques": " Giao thức thời gian thực RTP?",
+        "ans_a": "A. Real time Transport Protocol",
+        "ans_b": "B. Real Time Protocol",
+        "ans_c": "C. Real Transport Procedure ",
+        "ans_d": "D. Real time Transport",
+        "ans_true": 2
+      },
+      {
+        "ques": " Giao thức thời gian thực RTCP?",
+        "ans_a": "A. Real Time Control Protocol ",
+        "ans_b": "B. Real time Transport Control Protocol ",
+        "ans_c": "C. Real Transport Control Procedure	 ",
+        "ans_d": "D. Real time Transport Control Procedure ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Kế hoach thực hiện quá trình đa phương tiện?",
+        "ans_a": "A. Một số điểm: thu thập dữ liệu, về văn bản, video, âm thanh và ảnh",
+        "ans_b": "B. Một số điểm: lịch trình, thu thập dữ liệu, kế hoạch về chụp ảnh, kế hoạch âm thanh ",
+        "ans_c": "C. Một số điểm: lịch trình, thu thập dữ liệu, thử mẫu, kế hoạch ảnh tĩnh, kế hoạch ảnh động, kế hoạch âm thanh ",
+        "ans_d": "D. Một số điểm: thử mẫu, kế hoạch ảnh tĩnh, kế hoạch ảnh động, kế hoạch âm thanh ",
+        "ans_true": 3
+      },
+      {
+        "ques": " Việc hoàn thiện sản phẩm đa phương tiện theo các công đoạn nào?",
+        "ans_a": "A. Chỉnh lí sản phẩm theo ý kiến phản hồi về nghệ thuật, nội dung; chọn nhóm thử nghiệm và lên lịch đánh giá ",
+        "ans_b": "B. Chỉnh lí sản phẩm theo ý kiến chủ nhiệm đề án; thử nghiệm và lên lịch đánh giá ",
+        "ans_c": "C. Chọn nhóm thử nghiệm và lên lịch đánh giá ",
+        "ans_d": "D. Chỉnh lí sản phẩm theo ý kiến phản hồi về nghệ thuật, nội dung ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Tại sao trong các ứng dụng đa phương tiện người ta chấp nhận một số bit lỗi hoặc mất trong quá trình truyền thông tin.",
+        "ans_a": "A. Trong âm thanh, hình ảnh và video chúng ta vẫn có thể nhận biết được nó khi có một số ít bit bị lỗi/mất.",
+        "ans_b": "B. Các ứng dụng đa phương tiện dữ liệu đã được số hóa nên có thể xử lý được lỗi hoặc mất thông tin.",
+        "ans_c": "C. Trong các ứng dụng đa phương tiện hệ thống có thể sửa được lỗi ",
+        "ans_d": "D. Trong các ứng dụng đa phương tiện hệ thống có thể phục hồi lỗi ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Truyền thông đa phương tiện ứng dụng trong giáo dục đào tạo không nhằm mục đích gi?",
+        "ans_a": "A. Nâng cao một bước cơ bản chất lượng học tập cho học sinh ",
+        "ans_b": "B. Tạo ra một môi trường giáo dục mang tính tương tác cao ",
+        "ans_c": "C. Học sinh có thể sắp xếp hợp lý quá trình tự học tập, tự rèn luyện của mình ",
+        "ans_d": "D. Học sinh tự chủ trong việc có hoặc không học tập",
+        "ans_true": 2
+      },
+      {
+        "ques": " E-Learning là gì?",
+        "ans_a": "A. Đào tạo điện tử, giáo dục điện tử  ",
+        "ans_b": "B. Giáo dục tại nhà ",
+        "ans_c": "C. Giáo dục có sự tham gia của công nghệ thông tin ",
+        "ans_d": "D. Giáo dục có sự trao đổi giữa người học ",
+        "ans_true": 3
+      },
+      {
+        "ques": " Thuật ngữ Internet xuất hiện lần đầu tiên vào khoảng năm nào?",
+        "ans_a": "A. 1960",
+        "ans_b": "B. 1968",
+        "ans_c": "C. 1974",
+        "ans_d": "D. 1983",
+        "ans_true": 3
+      },
+      {
+        "ques": " Vì sao các máy tính trên internet trao đổi được với nhau?",
+        "ans_a": "A. Do chúng kết nối tới nhau”",
+        "ans_b": "B. Chúng cùng sử dụng bộ giao thức truyền thông TCP/IP ",
+        "ans_c": "C. Chúng cùng sử dụng bộ giao thức truyền thông UDP ",
+        "ans_d": "D. Chúng dùng chung một loại mạng ",
+        "ans_true": 2
+      },
+      {
+        "ques": " Trong các tiêu chuẩn lấy mẫu video, tiêu chuẩn nào có tín hiệu màu trên mỗi dòng được lấy mẫu với tần số bằng một phần tư tần số lấy mẫu tín hiệu chói ",
+        "ans_a": "A. tiêu chuẩn 4:4:4",
+        "ans_b": "B. tiêu chuẩn 4:2:2",
+        "ans_c": "C. tiêu chuẩn 4:1:1",
+        "ans_d": "D. tiêu chuẩn 4:2:0",
+        "ans_true": 3
+      },
+      {
+        "ques": " Xét quá trình lọc trung bình không gian. Nếu kích thước mặt nạ lọc tăng lên:",
+        "ans_a": "A. Băng thông bộ lọc tăng lên ",
+        "ans_b": "B. Mức độ làm 'trơn' ảnh tăng lên ",
+        "ans_c": "C. Thời gian xử lý ảnh sẽ giảm xuống ",
+        "ans_d": "D. Độ tương phản của ảnh kết quả sẽ được tăng cường ",
+        "ans_true": 2
+      },
+      {
+        "ques": " Dịch vụ AVOD được viết tắt bởi cụm từ?",
+        "ans_a": "A. Audio Video On Demand ",
+        "ans_b": "B. Audio Video Of Domain ",
+        "ans_c": "C. Audio Video On Domain ",
+        "ans_d": "D. Audio Video Of Demand ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Streaming Internet là gì?",
+        "ans_a": "A. Cho phép các multimedia server truyền đi qua mạng Internet (IP) các dòng dữ liệu liên tiếp, có thể giải nén và hiển thị ngay lập tức khi tới phía người dùng.",
+        "ans_b": "B. Cho phép dữ liệu truyền đi qua mạng Internet (IP), có thể giải nén và hiển thị ngay lập tức khi tới phía người dùng.",
+        "ans_c": "C. Cho phép các multimedia server truyền đi qua mạng Internet (IP) các dòng dữ liệu liên tiếp, có thể giải nén và không hiển thị ngay lập tức khi tới phía người dùng.",
+        "ans_d": "D. Cho phép các multimedia server truyền đi qua mạng Internet (IP) các dòng dữ liệu không liên tiếp, có thể giải nén và hiển thị ngay lập tức khi tới phía người dùng.",
+        "ans_true": 1
+      }
+    ]
+  },
+  {
+    "subject": " Truyền thông đa phương tiện ",
+    "exam_num": 2,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": " Truyền thông đa phương tiện ",
+    "exam_num": 3,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": " Truyền thông đa phương tiện ",
+    "exam_num": 4,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": " Truyền thông đa phương tiện ",
+    "exam_num": 5,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": " Truyền thông đa phương tiện ",
+    "exam_num": 6,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": " Truyền thông đa phương tiện ",
+    "exam_num": 7,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": " Truyền thông đa phương tiện ",
+    "exam_num": 8,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": " Truyền thông đa phương tiện ",
+    "exam_num": 9,
+    "time": 50,
+    "questions": []
+  },
+  {
+    "subject": " Truyền thông đa phương tiện ",
+    "exam_num": 10,
+    "time": 50,
+    "questions": []
+  }
+]
+
+

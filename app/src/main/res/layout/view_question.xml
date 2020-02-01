@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:padding="@dimen/margin">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tvQuestionCount"
+            tools:text="Câu 1/40:"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_title"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tvQuestionStatus"
+            android:visibility="gone"
+            tools:text="Chưa trả lời"
+            android:textStyle="bold"
+            android:textSize="@dimen/text_size_title"
+            android:textColor="@color/red"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:layout_marginTop="3dp"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+
+    <ScrollView
+        android:layout_marginTop="@dimen/margin_medium"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/layoutImg"
+                android:visibility="gone"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="56dp">
+                <ImageView
+                    android:id="@+id/imgQues"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent" />
+                <TextView
+                    android:gravity="center"
+                    android:text="(Bấm vào hình để xem chi tiết)"
+                    android:textStyle="italic"
+                    android:textColor="@color/white"
+                    android:layout_weight="2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvQuestion"
+                tools:text="Quyền dân tộc cơ bản của nhân dân Việt Nam lần đầu tiên được một hiệp định quốc tế công nhận là:"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_data"
+                android:lineSpacingExtra="@dimen/line_spacing_extra"
+                android:layout_marginBottom="@dimen/margin_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tvAnsA"
+                tools:text="A. Hiệp định Ianta 1945"
+                style="@style/TextViewAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tvAnsB"
+                tools:text="B. Hiệp định Sơ bộ 1946"
+                style="@style/TextViewAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tvAnsC"
+                tools:text="C. Hiệp định Giơnevơ 1954"
+                style="@style/TextViewAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tvAnsD"
+                tools:text="D. Hiệp định Paris năm 1973"
+                style="@style/TextViewAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
